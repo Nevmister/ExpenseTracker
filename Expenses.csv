@@ -1,0 +1,54 @@
+id,date,description,amount,category
+1,2026-01-02,Coffee,3.5,Food
+2,2026-01-03,Bus fare,2.8,Transport
+3,2026-01-04,Grocery run,41.25,Food
+4,2026-01-05,Electricity bill,56.9,Utilities
+5,2026-01-06,Lunch sandwich,6.4,Food
+6,2026-01-07,Taxi ride,14.2,Transport
+7,2026-01-08,Streaming subscription,12.99,Entertainment
+8,2026-01-09,Pharmacy items,18.35,Health
+9,2026-01-10,Gym membership,30.0,Health
+10,2026-01-11,Dinner takeaway,15.75,Food
+11,2026-01-12,Internet bill,45.0,Utilities
+12,2026-01-13,Notebook and pens,9.6,Education
+13,2026-01-14,Train ticket,11.5,Transport
+14,2026-01-15,Movie ticket,13.0,Entertainment
+15,2026-01-16,Breakfast,5.2,Food
+16,2026-01-17,Water bill,28.4,Utilities
+17,2026-01-18,Book purchase,16.9,Education
+18,2026-01-19,Snacks,4.8,Food
+19,2026-01-20,Parking fee,7.0,Transport
+20,2026-01-21,Phone bill,24.99,Utilities
+21,2026-01-22,Coffee beans,10.75,Food
+22,2026-01-23,Haircut,22.0,Personal
+23,2026-01-24,Groceries,52.3,Food
+24,2026-01-25,Pet supplies,19.45,Personal
+25,2026-01-26,Bus pass top-up,20.0,Transport
+26,2026-01-27,Online course,39.99,Education
+27,2026-01-28,Dinner out,27.8,Food
+28,2026-01-29,Gas refill,33.1,Transport
+29,2026-01-30,Toiletries,12.65,Personal
+30,2026-01-31,Music subscription,9.99,Entertainment
+31,2026-02-01,Coffee,3.7,Food
+32,2026-02-02,Lunch salad,8.5,Food
+33,2026-02-03,Electricity bill,58.1,Utilities
+34,2026-02-04,Train ticket,12.0,Transport
+35,2026-02-05,Groceries,47.9,Food
+36,2026-02-06,Cinema snacks,7.25,Entertainment
+37,2026-02-07,Pharmacy,13.4,Health
+38,2026-02-08,Gym membership,30.0,Health
+39,2026-02-09,Taxi ride,16.35,Transport
+40,2026-02-10,Dinner takeaway,17.2,Food
+41,2026-02-11,Internet bill,45.0,Utilities
+42,2026-02-12,Stationery,11.1,Education
+43,2026-02-13,Parking fee,6.5,Transport
+44,2026-02-14,Concert ticket,35.0,Entertainment
+45,2026-02-15,Breakfast,5.4,Food
+46,2026-02-16,Water bill,29.0,Utilities
+47,2026-02-17,Book purchase,14.75,Education
+48,2026-02-18,Snacks,4.95,Food
+49,2026-02-19,Phone bill,25.5,Utilities
+50,2026-02-20,Pet supplies,21.3,Personal
+52,01/05/2006,game,100.0,gaming
+53,01/05/2024,Food,240.0,Food
+54,01/05/2024,asfasf,1.5,asdaf
